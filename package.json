@@ -1,0 +1,19 @@
+{
+  "name": "the-pig-game",
+  "version": "1.0.0",
+  "description": "This is a game designed for two players. Players can roll the dice to add to their score. The player who reaches the score of 100 first will win. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishalk787/The-Pig-Game.git"
+  },
+  "author": "Vishal Kaushik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishalk787/The-Pig-Game/issues"
+  },
+  "homepage": "https://github.com/vishalk787/The-Pig-Game#readme"
+}
